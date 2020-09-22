@@ -5,6 +5,8 @@ sudo get update <br/><br/> result, "<span id="k">Update Successful!</span>".
 
 Hey There! I am Tanish Shinde, a chill dude. 
 
+My PGP Key is 1CBA 0798 92AC 8681 
+
 <p> Here my social profile links, : <br>  
 <a href="https://twitter.com/ShindeTanish">Twitter</a> 
 <br> 
@@ -16,7 +18,7 @@ Hey There! I am Tanish Shinde, a chill dude.
 <br> 
 <a href="https://www.reddit.com/user/TanishShinde">Reddit</a>
 <br>
-<a href="https://keybase.io/shindetanish">KeyBase</a>.</p>
+<a href="https://keybase.io/shindetanish">KeyBase</a></p>
 
 You can also contact me, feel free to send me an 
 <a href="mailto:shinde.tanish@icloud.com">Email</a>.

@@ -10,15 +10,9 @@ I love to learn and play with full-stack web technologies and machine learning. 
 <p> Here my social profile links, : <br>  
 <a href="https://twitter.com/ShindeTanish">Twitter</a> 
 <br>
-<a href="https://www.instagram.com/tanishxshinde">Instagram</a> 
-<br>
 <a href="https://github.com/TanishShinde">Github</a> 
 <br>
-<a href="https://gitlab.com/TanishShinde">GitLab</a>
-<br>
 <a href="https://www.reddit.com/user/TanishShinde">Reddit</a>
-<br>
-<a href="https://keybase.io/shindetanish">KeyBase</a></p>
 
 You can also contact me, feel free to send me an <a href="mailto:shinde.tanish@icloud.com">Email</a>.
 

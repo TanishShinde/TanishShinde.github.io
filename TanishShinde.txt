@@ -8,14 +8,10 @@ Hey There! I am Tanish Shinde.
 I love to learn and play with full-stack web technologies and machine learning. My aim is to create technology that is beautiful and functional.
 
 <p> Here my social profile links, : <br>  
-<a href="https://twitter.com/ShindeTanish">Twitter</a> 
+<a href="https://twitter.com/TanishVShinde">Twitter</a> 
 <br>
 <a href="https://github.com/TanishShinde">Github</a> 
-<br>
-<a href="https://www.reddit.com/user/TanishShinde">Reddit</a>
-<br>
-<a href="https://www.youtube.com/channel/UCVbYdnldrcy0k1ncVUCLnZw">YouTube</a>
 
-You can also contact me, feel free to send me an <a href="mailto:shinde.tanish@icloud.com">Email</a>.
+You can also contact me, feel free to send me a tweet.
 
 <p>Cheerio!</p>

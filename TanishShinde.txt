@@ -11,6 +11,8 @@ I love to learn and play with full-stack web technologies and machine learning. 
 <a href="https://twitter.com/TanishVShinde">Twitter</a> 
 <br>
 <a href="https://github.com/TanishShinde">Github</a> 
+<br>
+<a href="https://www.kaggle.com/tanishshinde">Kaggle</a>
 
 You can also contact me, feel free to send me a tweet.
 
